@@ -48,7 +48,7 @@ sum=caseQty+num;
 var merchTotal=200;
 var shippingCharge=90;
 var orderTotal=merchTotal + shippingCharge;
-document.write("The Order Total are: "+ orderTotal);
+document.write("The Order Total is: "+ orderTotal);
 
 // Q6)
 var num_1=2;
